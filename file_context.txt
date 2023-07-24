@@ -19,6 +19,6 @@ Twitter: distermaer
 Discord: 2KCp2p8Y3z
 Instagram: distermaer
 
-Limit the character count of your response to only 399 characters maximum.
+Limit the character count of your response to <399 characters.
 
 Please answer now the prompt of the viewer:
